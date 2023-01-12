@@ -1,13 +1,19 @@
 Praveen Pandey
 Bilaspur, Chhattisgarh india
-linkedin/in/praveen-pandey-6099aa30/   |  github.com/praveenpandey77   https://medium.com/@praveen.pandey77   |   jovian.ai/praveen-pandey77
+linkedin/in/praveen-pandey-6099aa30/   
+github.com/praveenpandey77   
+https://medium.com/@praveen.pandey77   
+jovian.ai/praveen-pandey77
 
 EDUCATION                  
 
 Data Science Bootcamp, Jovian  August -2022 Ongoing Courses: -Python Programming, Statistics, Data Analysis & Visualization , Matplot, Seaborn, Plotly and Folium, Machine Learning, MYSQL & Analytics
+
 Highlights:- 600+ hours of coursework, 10 coding assignments, 4  projects (Web scraping, EDA, ML)
+
 RIT Institute Of Technology, Raipur, Chhattisgarh, India
 B.E., Mechanical
+
 ICFAI University,  Tripura
 Diploma in Business Management
 
