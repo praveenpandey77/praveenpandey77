@@ -1,13 +1,13 @@
 Praveen Pandey
 Bilaspur, Chhattisgarh india
 
-https://www.linkedin/in/praveen-pandey-6099aa30/ 
+linkedin/in/praveen-pandey-6099aa30/ 
 
-https://www.github.com/praveenpandey77   
+github.com/praveenpandey77   
 
 https://www.medium.com/@praveen.pandey77  
 
-https://www.jovian.ai/praveen-pandey77
+jovian.ai/praveen-pandey77
 
 EDUCATION                  
 
