@@ -22,7 +22,10 @@ ICFAI University,  Tripura
 Diploma in Business Management
 
 SKILLS & CERTIFICATIONS
-Online courses: PYTHON  
+
+Online courses: PYTHON Programming
+
+
 Skills :  MYSQL, Numpy, Pandas, Python, Excel, Tableau, Git, Flask, Web Development using Replit.
 Autocad (Worked on engineering drawing and machine drawing)
 
