@@ -32,11 +32,15 @@ Downloaded real-world's large Datasets from Kaggle having 574664 rows and 13 col
 Created pandas  DataFrame from CSV file 
 Cleaning and removing the null values using Pandas built-in functions.
 computing the results using Numpy/Pandas or by plotting graphs using Matplotlib/Seaborn/Plotly
+
+
 Web Scraping Of Movies and TV Show From TMDB (View) 
 Using requests library to download the web pages.
 BeautifulSoup4 to parse and extract information.
 Create CSV file(s) with the extracted information
 Scrapped 100 Rows x 3 columns and into TMDV.csv using Pandas
+
+
 
 WORK EXPERIENCE (processing and production plant)
 Senior Manager in Mcnally Bharat Engineering working in processing plant
