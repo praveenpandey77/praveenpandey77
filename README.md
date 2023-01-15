@@ -27,6 +27,8 @@ Skills :  MYSQL, Numpy, Pandas, Python, Excel, Tableau, Git, Flask, Web Developm
 Autocad (Worked on engineering drawing and machine drawing)
 
 PROJECTS
+
+
 Exploratory Data Analysis and Visualization of Indian Premier League 2022 Tweets (View)
 Downloaded real-world's large Datasets from Kaggle having 574664 rows and 13 columns.
 Created pandas  DataFrame from CSV file 
