@@ -5,6 +5,7 @@ Hi I'm PRAVEEN PANDEY, working as Data Analyst. i am passionate for working in d
 During course work i improved my skills  on Python Programming, Statistics, Data Analysis & Visualization , Matplot, Seaborn, Plotly and Folium, Machine Learning, MYSQL & Analytics
 
 My Academic Education:-
+
 RIT Institute Of Technology, Raipur, Chhattisgarh, India
 B.E., Mechanical
 
@@ -31,12 +32,14 @@ Scrapped 100 Rows x 3 columns and into TMDV.csv using Pandas
 WORK EXPERIENCE 
 
 (processing and production plant)
+
 Senior Manager in Mcnally Bharat Engineering working in processing plant
+
 Construction Manager in KBR company( R&S)
+
 Works Manager in Zimbabwe SteelMakers
+
 Sr. Manager in ACB India Ltd
-
-
 
 [![image](https://user-images.githubusercontent.com/114177903/217257872-c20b440a-2d42-46a8-9776-dd8252179f8a.png)
 ]()
