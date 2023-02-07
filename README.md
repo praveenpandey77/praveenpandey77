@@ -1,5 +1,5 @@
 [![image](https://user-images.githubusercontent.com/114177903/217253438-40491c06-7d34-4967-aa08-dc95148a1137.png)
-](https://www.linkedin.com/in/praveen-pandey-6099aa30/)[![image](https://user-images.githubusercontent.com/114177903/217253751-78eaf0f1-efb7-460e-99be-8b033af0a781.png)](https://github.com/praveenpandey77)   [![image](https://user-images.githubusercontent.com/114177903/217254136-618f6169-909b-4c5d-aa3e-9ba23bd004e0.png)](https://www.medium.com/@praveen.pandey77)  [![image](https://user-images.githubusercontent.com/114177903/217254487-dd2e8f87-d1b8-4a37-9da0-ae10fe85eb46.png)](https://jovian.com/praveen-pandey77)
+](https://www.linkedin.com/in/praveen-pandey-6099aa30/)[![image](https://user-images.githubusercontent.com/114177903/217253751-78eaf0f1-efb7-460e-99be-8b033af0a781.png)](https://github.com/praveenpandey77)   [![image](https://user-images.githubusercontent.com/114177903/217254136-618f6169-909b-4c5d-aa3e-9ba23bd004e0.png)](https://www.medium.com/@praveen.pandey77)                      [![image](https://user-images.githubusercontent.com/114177903/217254487-dd2e8f87-d1b8-4a37-9da0-ae10fe85eb46.png)](https://jovian.com/praveen-pandey77)
 
 Praveen Pandey
 Bilaspur, Chhattisgarh india
@@ -49,3 +49,8 @@ Senior Manager in Mcnally Bharat Engineering working in processing plant
 Construction Manager in KBR company( R&S)
 Works Manager in Zimbabwe SteelMakers
 Sr. Manager in ACB India Ltd
+
+
+
+[](![image](https://user-images.githubusercontent.com/114177903/217257496-319bbb18-d9bf-4815-9661-627c1f25bc84.png)
+)
