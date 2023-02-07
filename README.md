@@ -1,7 +1,7 @@
 Praveen Pandey
 Bilaspur, Chhattisgarh india
 
-[![image](https://user-images.githubusercontent.com/114177903/217242774-03428165-28cd-4c82-8950-96f80ae8f46a.png)
+[![image](https://user-images.githubusercontent.com/114177903/217243439-129763c6-63c6-4c4c-8f40-19105ffe0500.png)
 ](https://www.linkedin.com/in/praveen-pandey-6099aa30/)
 
 https://github.com/praveenpandey77   
