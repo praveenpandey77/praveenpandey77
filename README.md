@@ -1,7 +1,7 @@
 [![image](https://user-images.githubusercontent.com/114177903/217253438-40491c06-7d34-4967-aa08-dc95148a1137.png)
 ](https://www.linkedin.com/in/praveen-pandey-6099aa30/)[![image](https://user-images.githubusercontent.com/114177903/217253751-78eaf0f1-efb7-460e-99be-8b033af0a781.png)](https://github.com/praveenpandey77)   [![image](https://user-images.githubusercontent.com/114177903/217254136-618f6169-909b-4c5d-aa3e-9ba23bd004e0.png)](https://www.medium.com/@praveen.pandey77)                      [![image](https://user-images.githubusercontent.com/114177903/217254487-dd2e8f87-d1b8-4a37-9da0-ae10fe85eb46.png)](https://jovian.com/praveen-pandey77)
 
-Hi I'm PRAVEEN PANDEY, working as Data Analyst. i am passionate for working in data science. i have studied in Jovian bootcamp and worked 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, Exploratory Data Analysis, Machine Learning)
+Hi I'm PRAVEEN PANDEY, working as Data Analyst. i am passionate for working in data science. i have studied at Jovian bootcamp and worked 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, Exploratory Data Analysis, Machine Learning)
 During course work i improved my skills  on Python Programming, Statistics, Data Analysis & Visualization , Matplot, Seaborn, Plotly and Folium, Machine Learning, MYSQL & Analytics
 
 My Academic Education:-
